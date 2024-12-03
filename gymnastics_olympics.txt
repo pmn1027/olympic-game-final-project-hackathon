@@ -1,0 +1,5 @@
+Name,Nationality,Total Medals Won,Gold,Silver,Bronze
+Larisa Latynina,Soviet Union,18,9,5,4
+Věra Čáslavská,Czechoslovakia,11,7,4,0
+Ágnes Keleti,Hungary,10,5,3,2
+Polina Astakhova,Soviet Union,10,5,2,3

@@ -1,0 +1,5 @@
+Name,Nationality,Total Medals Won,Gold,Silver,Bronze
+Jenny Thompson,United States of America,12,8,3,1
+Dara Torres,United States of America,12,4,4,4
+Emma McKeon,Australia,11,5,2,4
+Katie Ledecky,United States of America,10,7,3,0

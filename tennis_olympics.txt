@@ -1,0 +1,5 @@
+Name,Nationality,Total Medals Won,Gold,Silver,Bronze
+Venus Williams,United States of America,5,4,1,0
+Kathleen M. Godfree,Great Britain,5,1,2,2
+Serena Williams,United States of America,4,4,0,0
+Arantxa Sánchez Vicario,Spain,4,0,2,2

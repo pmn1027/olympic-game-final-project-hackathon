@@ -1,0 +1,5 @@
+Name,Nationality,Total Medals Won,Gold,Silver,Bronze
+Tessa Virtue,Canada,5,3,2,0
+Sonja Henie,Norway,3,3,0,0
+Irina Rodnina,Soviet Union,3,3,0,0
+Andrée Brunet,France,3,2,0,1
