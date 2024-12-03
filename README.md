@@ -1,5 +1,5 @@
-*CS 111, Summer 2024
-<br>Professor Shanon Reckinger*
+*CS 111, Summer 2024   
+Professor Shanon Reckinger*
 
 **Collaboration Policy:** By submitting this assignment, you are acknowledging you have read the collaboration policy in the syllabus for projects. This project should be done individually. You may not receive any assistance from anyone outside of the CS 111 teaching staff.
 
@@ -62,8 +62,8 @@ First, let’s talk about the technical requirements of the project. First, to r
 6. that uses five or more built in Python functions (turtle functions do not count).
 7. that is animated (not looking for a still graphic). The animation should including drawing and moving turtles. 
 8. that contains at least two event-driven components.
-9. that runs in Zybooks IDE with Turtle graphics. Code must run. If code has errors and does not run, no credit will be given.
-   <br>Development must be entirely in Zybooks.  Code playback should reveal 10. entire code development progress.  Developing in an outside IDE is not permitted.  You may not use advanced concepts not covered in this class.  If you use it, you should be able to explain your code.
+9. that runs in Zybooks IDE with Turtle graphics. Code must run. If code has errors and does not run, no credit will be given.   
+   Development must be entirely in Zybooks.  Code playback should reveal 10. entire code development progress.  Developing in an outside IDE is not permitted.  You may not use advanced concepts not covered in this class.  If you use it, you should be able to explain your code.
 10. that responds to one of the three prompts and is a high quality theme.
 
 With all the requirements above, they must contribute to the functionality of your project. If removing them would not change the final product, then they don’t count. If you are trying to minimize or “minimally satisfy” the requirements, your project is not sufficient. For example, if you ask "Do two branches of the same if statement count for requirement 3?", the answer is "No". These are a list of minimum requirements and your goal should be to turn in a final product that without a doubt meets them. Do not ask us if your project satisfies them, it is your job to convince us that it does. If you aren’t sure, then it does not meet requirement.  Most students who struggle to find enough branches, Python functions, etc. are usually "hard coding" or have poor coding style. 
